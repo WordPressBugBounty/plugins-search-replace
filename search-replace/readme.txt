@@ -8,7 +8,7 @@ Tags: search, replace, find, page, post
 
 Requires at least: 3.5
 
-Tested up to: 6.6
+Tested up to: 6.9
 
 Requires PHP: 5.6
 
